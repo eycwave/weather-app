@@ -22,7 +22,7 @@ A professional-grade React Native weather application that provides current weat
 
 ## Screenshots
 
-![mobilapp1](https://github.com/user-attachments/assets/05161fde-954d-4449-8a54-1b3b0bc890ec)
+![weatherapp](https://github.com/user-attachments/assets/0fe1cc21-1d26-4ddd-bb5f-7be195d1bad5)
 
 ## Installation
 
