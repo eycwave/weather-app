@@ -43,8 +43,13 @@ A professional-grade React Native weather application that provides current weat
 
 4. Run the application:
    ```bash
+   # For Android:
+   cd android
+   ./gradlew clean # Clean the Android build cache (important for avoiding build errors)
+   cd ..
    npx react-native run-android
-   # or for iOS
+
+   # For iOS:
    npx react-native run-ios
    ```
 
